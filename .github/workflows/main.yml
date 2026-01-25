@@ -1,4 +1,4 @@
-name: ˢᵃᶤᶠ ₉₁- RDP 
+name: COLD- RDP 
 
 on:
   workflow_dispatch:
@@ -31,4 +31,4 @@ jobs:
 
     - name: Keep Runner Alive (5 Hours)
       run: |
-        Start-Sleep -Seconds 18000
+        Start-Sleep -Seconds 21600
